@@ -28,6 +28,17 @@ h4
     color: crimson;
 }
 
+.intro-p {
+    text-align: center;
+    justify-content: center;
+    padding: 25px;
+}
+
+.zigzag {
+    text-align: right;
+    justify-content: right;
+}
+
 .portfolio {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
